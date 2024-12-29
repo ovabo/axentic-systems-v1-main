@@ -13,7 +13,7 @@ export default function DemoVideo() {
         <div className="aspect-video max-w-4xl mx-auto rounded-xl overflow-hidden shadow-2xl">
           <iframe
             className="w-full h-full"
-            src="https://youtu.be/UiF6skAyur4"
+            src="https://youtu.be/embed/UiF6skAyur4"
             title="Axentic Demo Video"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen
