@@ -12,7 +12,7 @@ export default function Hero() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative">
         <div className="text-center">
           <h1 className="text-5xl font-bold text-white mb-6">
-            Transform Enterprise Data into{' '}
+            Transform Your Data into{' '}
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-neon-purple to-neon-blue">
               Intelligent Action
             </span>
